@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsAash
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning NextJS, GraphQL, TypeORM, PostgreSQL
+- 🌱 I’m currently learning NextJS, Elixir, Phoneix LiveView
 - 💞️ I’m looking to collaborate on NextJS, GraphQL app
 - 📫 How to reach me aashishneupane125@gmail.com
 
